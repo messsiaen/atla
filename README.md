@@ -4,7 +4,7 @@
 ATLA combines a **Transformer-based centralized critic**, **prioritized experience replay**, and **Population-Based Bandit (PB2)** hyper-parameter tuning to jointly optimize **adaptive video compression, cooperative offloading, resource allocation, and incentive distribution** in dynamic wireless environments.
 
 <p align="center">
-  <img src="overview.png" width="600" alt="ATLA overview"/>
+  <img src="overview.jpg" width="600" alt="ATLA overview"/>
 </p>
 
 ---
